@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "ASEEM YASH APKA YAH SHASTRA APKE LIYE SADEV TAIYAR HAI"
+echo "TENSION NA LE PURA KHANDAN KA KUNDALI BTAYEGE(spy)"
 sleep 0.1
 read -p "bhai ip address bta abhi g@nd marta hu iski:" ip
 sleep 1
